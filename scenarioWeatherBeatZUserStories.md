@@ -10,5 +10,5 @@ Ans: I'd like to be able to tweak the palylist that is to say be able to remove 
 
 
 Q3)Would the playlists be generated as the weather changes or will it be created by reading the weather forecast?
-
+------------------
 Answer: Playlist will be initially generated from weather forecast, and will be regenerated when the current weather differs from the forecast.
